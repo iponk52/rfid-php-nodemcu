@@ -1,0 +1,6 @@
+index - halaman depan seluruh data
+in.php - realtime halaman depan data
+*add.php - menambahkan data get uid dari nodemcu
+control/index.php - control untuk menambahkan data dari nodemcu
+
+* = belum jalan, masih di kembangkan

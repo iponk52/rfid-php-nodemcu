@@ -1,0 +1,13 @@
+/* Create Database and Table */
+create database data_id;
+ 
+use data_id;
+ 
+CREATE TABLE `data_rfid` (
+  `id` int(11) NOT NULL auto_increment,
+  `uid` varchar(100),
+  `nama` varchar(100),
+  `email` varchar(15),
+  `saldo` int(100),
+  PRIMARY KEY  (`id`)
+);
